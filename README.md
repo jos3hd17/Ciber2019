@@ -3,6 +3,13 @@
 Repo para parcial de ciberseguridad 2019
 
 
+Actualización del video del exploit
+
+Segundo link
+
+https://drive.google.com/file/d/1nRi3Z_JsR95GNX45Nzmd3ZZ1UyWtsQFL/view?usp=sharing
+
+
 #######################################################################################################################################
 
 1) Contenido
